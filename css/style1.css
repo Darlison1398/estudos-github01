@@ -7,3 +7,13 @@ body{
 h1{
     color: aquamarine;
 }
+
+.container {
+    display: flex;
+    gap: 2em;
+}
+
+.box3{
+    background-color: rgb(165, 165, 243);
+    color: #FFF;
+}
