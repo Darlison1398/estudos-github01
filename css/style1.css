@@ -1,11 +1,10 @@
 body{
     margin: 1rem;
     padding: 1rem;
-    background-color: aliceblue;
 }
 
-h1{
-    color: aquamarine;
+.container h4{
+    color: rgb(233, 24, 139);
 }
 
 .container {
